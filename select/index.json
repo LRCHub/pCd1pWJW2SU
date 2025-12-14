@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "大空、ビュンと",
+  "base_artist": "≒JOY",
+  "createdAt": "2025-12-14T11:10:26.899125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大空、ビュンと",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/01_大空、ビュンと_≒JOY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "大空、ビュンと",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/02_大空、ビュンと_≒JOY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "大空、ビュンと (instrumental)",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/03_大空、ビュンと_(instrumental)_≒JOY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "大空、ビュンと (instrumental)",
+      "artist": "nearly-equal-joy",
+      "has_synced": false,
+      "path": "select/04_大空、ビュンと_(instrumental)_nearly-equal-joy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大空、ビュンと",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_大空、ビュンと_≒JOY.txt"
+    }
+  ]
+}
